@@ -10,6 +10,9 @@ PixelAlchemy is a web application that leverages the power of OpenAI's DALL-E AP
 - [Features](#features)
 - [Technologies](#technologies)
 - [Screenshots](#screenshots)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
 
 ## Preview
 [Link to the live preview](https://pixel-alchemy.netlify.app/)  click here or click on the photo
@@ -55,3 +58,30 @@ This Website uses the MERN stack.
 ![PixelAlchemy 2](https://github.com/yusufafify/PixelAlchemy/assets/115397064/3f37c845-2359-4d71-bf5c-e45b1485e0f4)
 ![PixelAlchemy 3](https://github.com/yusufafify/PixelAlchemy/assets/115397064/f3d45989-98cc-491f-b5d4-2bb6e009e1d7)
 ![PixelAlchemy 4](https://github.com/yusufafify/PixelAlchemy/assets/115397064/e03b3b86-655d-41c8-b8b0-379da3477177)
+
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have the following prerequisites installed:
+
+- Node.js
+- npm
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/pixelalchemy.git
+   ```
+2. Navigate to the project directory:
+
+   ```bash
+   cd pixelalchemy
+   ```
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```   
