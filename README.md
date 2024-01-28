@@ -51,3 +51,7 @@ This Website uses the MERN stack.
 
 ### Screenshots:
 
+![PixelAlchemy 1](https://github.com/yusufafify/PixelAlchemy/assets/115397064/42d15a10-817c-4d9f-a6bf-87eb5e311ade)
+![PixelAlchemy 2](https://github.com/yusufafify/PixelAlchemy/assets/115397064/3f37c845-2359-4d71-bf5c-e45b1485e0f4)
+![PixelAlchemy 3](https://github.com/yusufafify/PixelAlchemy/assets/115397064/f3d45989-98cc-491f-b5d4-2bb6e009e1d7)
+![PixelAlchemy 4](https://github.com/yusufafify/PixelAlchemy/assets/115397064/e03b3b86-655d-41c8-b8b0-379da3477177)
