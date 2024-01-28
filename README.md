@@ -37,6 +37,7 @@ This Website uses the MERN stack.
 ![react-icon](https://github.com/yusufafify/PixelAlchemy/assets/115397064/db6ff440-d4da-4ed0-8e13-9a1b5f6ed952)
 ![Vite-icon](https://github.com/yusufafify/PixelAlchemy/assets/115397064/099fcdf9-f402-4cb8-ad97-eb233f790916)
 ![Node-icon](https://github.com/yusufafify/PixelAlchemy/assets/115397064/504d6bc3-577c-41dd-8d13-1f6112c970a2)
+![Tailwind](https://github.com/yusufafify/PixelAlchemy/assets/115397064/df1e1ed8-5324-42d5-9836-a75983188ae6)
 
 - MongoDB: The database used to store information about the photo and the creator
 - Express js: The backend framework used in this project.
