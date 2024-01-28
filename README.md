@@ -11,7 +11,7 @@ PixelAlchemy is a web application that leverages the power of OpenAI's DALL-E AP
 - [Technologies](#technologies)
 - [Screenshots](#screenshots)
 
-## Demo
+## Preview
 [Link to the live preview](https://pixel-alchemy.netlify.app/)  click here or click on the photo
 
 [![PixelAlchemy Preview](https://github.com/yusufafify/PixelAlchemy/assets/115397064/99943c01-3c9e-4a62-bf9c-4bfb86c33f74)](https://pixel-alchemy.netlify.app/)
