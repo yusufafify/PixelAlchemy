@@ -73,15 +73,42 @@ Before you begin, ensure you have the following prerequisites installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/pixelalchemy.git
+   git clone https://github.com/yusufafify/PixelAlchemy.git
    ```
 2. Navigate to the project directory:
 
    ```bash
    cd pixelalchemy
    ```
-3. Install dependencies:
+3. Navigate to the client directory:
+
+   ```bash
+   cd client
+   ```
+4. Install dependencies:
 
    ```bash
    npm install
+   ```
+5. start the frontend by runing:
+
+   ```bash
+   npm run dev
    ```   
+6. Navigate to the server directory:
+
+   ```bash
+   cd server
+   ```
+7. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+8. start the server by runing:
+
+   ```bash
+   npm start
+   ```
+
+### Happy Coding!
