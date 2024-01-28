@@ -32,12 +32,21 @@ Discover the technologies that helped this website come to life:
 
 This Website uses the MERN stack.
 
-- Node.js: the javascript runtime environment.
+![Mongo-icon](https://github.com/yusufafify/PixelAlchemy/assets/115397064/96dab697-46a2-43f8-af7b-9f11d29d827d)
+![Express-icon](https://github.com/yusufafify/PixelAlchemy/assets/115397064/fbda279a-3c48-4e00-abb4-7a4966881738)
+![react-icon](https://github.com/yusufafify/PixelAlchemy/assets/115397064/db6ff440-d4da-4ed0-8e13-9a1b5f6ed952)
+![Vite-icon](https://github.com/yusufafify/PixelAlchemy/assets/115397064/099fcdf9-f402-4cb8-ad97-eb233f790916)
+![Node-icon](https://github.com/yusufafify/PixelAlchemy/assets/115397064/504d6bc3-577c-41dd-8d13-1f6112c970a2)
+
+- MongoDB: The database used to store information about the photo and the creator
 - Express js: The backend framework used in this project.
 - React js: The frontend framework used in this project.
 - Vite: The local development server, used for faster and better react js development process.
+- Node.js: the javascript runtime environment.
 - Tailwind Css: The CSS framework used for easy and customizable component styling.
-- MongoDB: The database used to store information about the photo and the creator
+
+
+
 
 ### Screenshots:
 
